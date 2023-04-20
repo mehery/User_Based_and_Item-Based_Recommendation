@@ -1,6 +1,6 @@
 # User_Based_and_Item-Based_Recommendation
 
-### User-Based Collaborative Filtering
+## User-Based Collaborative Filtering
 
 Recommendations are made based on user similarities.
 
@@ -22,7 +22,7 @@ rating: The rating given by the user
 
 timestamp: The time at which the rating has been given
 
-### Item-Based Collaborative Filtering
+## Item-Based Collaborative Filtering
 
 Recommendations can be made based on item similarities.
 
